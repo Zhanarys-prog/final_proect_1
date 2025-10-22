@@ -99,7 +99,7 @@ body, html {
 }
 
 .cards-section {
-  min-height: 100vh;
+  min-height: 100%;
   background: url("/photo/pexels-matthew-barra-178916-813011.jpg") no-repeat center center/cover;
   display: flex;
   flex-direction: column;
@@ -107,7 +107,7 @@ body, html {
   justify-content: center;
   text-align: center;
   color: #fff;
-  padding: 40px;
+
 }
 
 .cards-section h2 {
